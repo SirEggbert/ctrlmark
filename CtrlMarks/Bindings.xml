@@ -1,0 +1,3 @@
+<Bindings>
+  <Binding name="CLICK CtrlMarksSecureOpen:LeftButton" header="CTRLMARKS" category="ADDONS" default="CTRL-BUTTON1"/>
+</Bindings>

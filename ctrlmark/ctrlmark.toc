@@ -1,8 +1,0 @@
-## Interface: 120100
-## Title: ctrlmark
-## Notes: Small marking addon from Makers Shack.
-## Author: SirEggbert
-## Version: 0.1.0
-## X-Website: https://makers-shack.com/projects/ctrlmark/
-
-ctrlmark.lua

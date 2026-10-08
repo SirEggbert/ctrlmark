@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: CtrlMarks
+## Notes: Ctrl+left click marks a unit, or arms a ground marker if the mouse is on empty ground. Eggbert Gaming Studios.
+## Author: Eggbert Gaming Studios
+## Version: 1.18
+## SavedVariables: CtrlMarksDB
+
+CtrlMarks.lua
