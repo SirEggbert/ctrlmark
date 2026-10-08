@@ -1,5 +1,5 @@
--- CtrlMarks 1.18
--- Eggbert Gaming Studios
+-- CtrlMarks 1.19
+-- Eggbert, Makers Shack. WoW Forever only.
 -- Click behavior is locked. Icons sit on a gold ring, just inside the stone.
 
 local MARKS = {
@@ -198,7 +198,7 @@ function CtrlMarks_Open()
 end
 
 local function Help()
-  print("|cff80ff80CtrlMarks 1.11|r Eggbert Gaming Studios")
+  print("|cff80ff80CtrlMarks 1.19|r WoW Forever, by Eggbert. Makers Shack.")
   print("Point at a player or NPC and Ctrl+left click. The wheel targets it. Pick an icon to mark it. The center button clears that mark. The wheel closes after a choice.")
   print("Click empty screen to cancel.")
   print("Point at empty ground and Ctrl+left click for a ground marker. Pick an icon, then click the ground.")
@@ -225,6 +225,6 @@ loader:SetScript("OnEvent", function()
   SLASH_CTRLMARKS2 = "/cmark"
   SLASH_CTRLMARKS3 = "/ctrlmarks"
   SlashCmdList.CTRLMARKS = Slash
-  print("|cff80ff80Thank you for using the CtrlMarks addon by Eggbert Gaming Studios.|r Type /cm help for more information.")
+  print("|cff80ff80CtrlMarks|r loaded. WoW Forever, by Eggbert. Makers Shack. Type /cm help.")
   print("|cff80ff80CtrlMarks:|r if the mob is not targeted, paste this out of combat: /run SetBinding(\"CTRL-BUTTON1\", \"CLICK CtrlMarksSecureOpen:LeftButton\"); SaveBindings(2)")
 end)

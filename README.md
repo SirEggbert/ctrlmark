@@ -1,24 +1,23 @@
 # CtrlMarks
 
-World of Warcraft marking wheel from [Makers Shack](https://makers-shack.com/projects/ctrlmark/).
+WoW Forever marking wheel by Eggbert, from [Makers Shack](https://makers-shack.com/projects/ctrlmark/).
 
-Ctrl+left click on a unit opens a mark wheel. Ctrl+left click on empty ground arms a ground marker. Version 1.18.
+Ctrl+left click on a unit opens a mark wheel. Ctrl+left click on empty ground arms a world marker. Not a retail addon.
 
-This repo is the addon only. The family vault stays in `lutz-command-center`.
+## Flavor
+
+Forever only. `CtrlMarks.toc` and `CtrlMarks_Camelot.toc` both declare `Interface: 16001`. The `_Camelot` file is the Forever client suffix, so Midnight does not treat this as its TOC.
 
 ## Layout
 
 ```
 CtrlMarks/
   CtrlMarks.toc
+  CtrlMarks_Camelot.toc
   CtrlMarks.lua
   Bindings.xml
   Gold.tga
   Ring.tga
 ```
 
-Folder name matches the TOC. Zip that folder, not the repo root. Unzipped path must be `CtrlMarks/CtrlMarks.toc`.
-
-## Flavor
-
-`## Interface: 16001` is Forever 1.60.1, not Midnight retail (`120100`). Tag the CurseForge project for the client you tested. Retail will treat this build as out of date until the interface number matches that client.
+Zip the `CtrlMarks` folder. Unzipped path must be `CtrlMarks/CtrlMarks.toc`.

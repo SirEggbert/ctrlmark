@@ -1,7 +1,11 @@
 # Changelog
 
+## 1.19
+
+- Forever only. Camelot TOC added.
+- Author is Eggbert. Notes credit Makers Shack.
+
 ## 1.18
 
-- Imported from the tested zip.
 - Unit mark wheel and ground-marker wheel.
 - Default bind Ctrl+left click.
