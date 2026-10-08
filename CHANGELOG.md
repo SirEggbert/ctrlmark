@@ -1,5 +1,7 @@
 # Changelog
 
-## 0.1.0
+## 1.18
 
-- Package created. Marking logic not imported yet.
+- Imported from the tested zip.
+- Unit mark wheel and ground-marker wheel.
+- Default bind Ctrl+left click.
