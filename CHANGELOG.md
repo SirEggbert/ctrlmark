@@ -1,11 +1,15 @@
 # Changelog
 
+## 1.0.0
+
+- First public release. WoW Forever only.
+- Mark wheel on Ctrl+left click. Ground-marker wheel on empty ground.
+- Author Eggbert, Makers Shack.
+
 ## 1.19
 
-- Forever only. Camelot TOC added.
-- Author is Eggbert. Notes credit Makers Shack.
+- Internal branding pass. Not released.
 
 ## 1.18
 
-- Unit mark wheel and ground-marker wheel.
-- Default bind Ctrl+left click.
+- Local test build. Not released.

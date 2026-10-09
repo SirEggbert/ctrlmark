@@ -1,4 +1,4 @@
--- CtrlMarks 1.19
+-- CtrlMarks 1.0.0
 -- Eggbert, Makers Shack. WoW Forever only.
 -- Click behavior is locked. Icons sit on a gold ring, just inside the stone.
 
@@ -198,7 +198,7 @@ function CtrlMarks_Open()
 end
 
 local function Help()
-  print("|cff80ff80CtrlMarks 1.19|r WoW Forever, by Eggbert. Makers Shack.")
+  print("|cff80ff80CtrlMarks 1.0.0|r WoW Forever, by Eggbert. Makers Shack.")
   print("Point at a player or NPC and Ctrl+left click. The wheel targets it. Pick an icon to mark it. The center button clears that mark. The wheel closes after a choice.")
   print("Click empty screen to cancel.")
   print("Point at empty ground and Ctrl+left click for a ground marker. Pick an icon, then click the ground.")

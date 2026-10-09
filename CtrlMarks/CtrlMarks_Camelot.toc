@@ -2,7 +2,7 @@
 ## Title: CtrlMarks
 ## Notes: WoW Forever marking wheel from Makers Shack. Ctrl+left click a unit to mark it, or empty ground to arm a world marker.
 ## Author: Eggbert
-## Version: 1.19
+## Version: 1.0.0
 ## SavedVariables: CtrlMarksDB
 ## X-Website: https://makers-shack.com/projects/ctrlmark/
 ## Category: Raid
